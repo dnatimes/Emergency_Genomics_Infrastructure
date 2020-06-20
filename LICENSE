@@ -4,10 +4,13 @@ Copyright (c) 2020 Alice Rathjen
 
 This application was built by repurposing ESRI's ArcGIS online's software to
 create Emergency Genomics Infrastructure.  Please see ESRI.com for license
-requirements.   See  DNA Compass provides those users having ArcGIS online
+requirements.  DNA Compass provides those users having ArcGIS online
 licenses to reuse the formulas described in this application to
 leverage ARCGIS online to map genomes for Covid-19 emergency for 
-non-commercial use.
+non-commercial use.  Reuse of DNA Compass formulas to leverage opensource 
+earth-based mapping software is also permitted to create solutions to 
+mitigate Covid-19.  DNA Compass solution will work with open street map 
+platform as well.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
