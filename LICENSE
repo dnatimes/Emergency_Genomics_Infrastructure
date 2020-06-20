@@ -1,13 +1,13 @@
-MIT License
+Li
 
 Copyright (c) 2020 Alice Rathjen
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This application was built by repurposing ESRI's ArcGIS online's software to
+create Emergency Genomics Infrastructure.  Please see ESRI.com for license
+requirements.   See  DNA Compass provides those users having ArcGIS online
+licenses to reuse the formulas described in this application to
+leverage ARCGIS online to map genomes for Covid-19 emergency for 
+non-commercial use.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
